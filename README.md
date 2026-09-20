@@ -1,4 +1,6 @@
-# The Impossible Game 2+
+# The Impossible Game Land of Extremes
+
+Levels out of 6-10 sadly no editor:C
 
 A mod of [The Impossible Game 2](https://en.wikipedia.org/wiki/The_Impossible_Game_2) with more features.
 
